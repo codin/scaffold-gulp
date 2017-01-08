@@ -7,7 +7,7 @@
 var extend = require('extend');
 var gulp = require('gulp');
 
-var Task = require('./src/styles-task.js');
+var StylesTask = require('./src/styles-task.js');
 
 function Scaffold() {
     this.gulp = gulp;
