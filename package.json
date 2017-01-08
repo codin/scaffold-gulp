@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/codin/scaffold-gulp/issues"
   },
-  "homepage": "https://github.com/codin/scaffold-gulp#readme"
+  "homepage": "https://github.com/codin/scaffold-gulp#readme",
+  "dependencies": {
+    "extend": "^3.0.0"
+  }
 }
